@@ -1,0 +1,15 @@
+.logo{
+    width: 10px;
+    height: 10px;
+}
+ h4 {
+    margin: 0;
+    margin-top: 15px;
+    text-align: center;
+    color: black;
+    margin-bottom: -1cm;
+    text-shadow: 10px 10px 10px black;
+    border: 2px solid blue; /* Adjust the width and color as needed */
+    padding: 10px; /* Optional: Add padding for better visual appearance */
+  }
+  

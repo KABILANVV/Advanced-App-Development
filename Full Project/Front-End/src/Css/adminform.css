@@ -1,0 +1,52 @@
+.JobApp1 {
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+  }
+  
+  .JobApp1 .form {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .JobApp1 h1 {
+    margin: 15px 0;
+    font-size: 24px;
+    text-align: center;
+    color: #333;
+  }
+  
+  .JobApp1 label {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #555;
+  }
+  
+  .JobApp1 input {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+  
+  .JobApp1 button {
+    margin-top: 15px;
+    padding: 12px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+  }
+  
+  .JobApp1 button:hover {
+    background-color: #2980b9;
+  }
+  
